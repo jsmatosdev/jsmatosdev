@@ -7,8 +7,10 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div  align="center">
 <div style="display: inline_block"><br>
+  <img align="left" height="250" alt="" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
   <img align="center" alt="Josue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Josue-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
