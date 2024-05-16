@@ -1,7 +1,7 @@
 ## **<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=popping&weight=100&size=35&duration=3100&pause=1000&color=FFFFFF&background=FFF9FB00&center=verdadeiro&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=570&height=100&lines=%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+Ol%C3%A1%2C+eu+sou+o+Josu%C3%A9+Santos;%F0%9F%8C%90+Programador+Front-end" alt="Typing SVG" /></a>**
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jsmatosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmatosdev&layout=compact&langs_count=16&theme=dracula"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=jsmatosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmatosdev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
 
