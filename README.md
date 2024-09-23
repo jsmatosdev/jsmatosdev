@@ -19,7 +19,7 @@
 ## Cursos extracurriculares 📖
 * Bootcamp Front-end - <strong> Dio.</strong> (2024-presente)
 * Banco de Dandos (SQL/Mysql) - <strong> Fundação Bradesco</strong> (2024)
-* Fundamentos dee T.I - <strong> Fundação Bradesco</strong> (2024)
+* Fundamentos de T.I - <strong> Fundação Bradesco</strong> (2024)
 * Criar Sites usando (HTML, CSS e JavaScript) - <strong> Fundação Bradesco</strong> (2024)
 ---
 
