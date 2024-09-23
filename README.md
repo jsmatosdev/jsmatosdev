@@ -1,33 +1,88 @@
+# "Hello world", me chamo josué Santos 👋
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ingl%C3%AAs+basico+%2B;Desenvolvedor+Front+End+%F0%9F%92%BB;Estudande+T%C3%A9cnico+em+Inform%C3%A1tica+%F0%9F%93%9A;Proativo%2FDeterminado%2FFocado+%F0%9F%8C%9F;Amo+Aprender+coisas+Novas+%F0%9F%92%9F" alt="Typing SVG" /></a>
+</p>
 
-## **<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=popping&weight=100&size=35&duration=3100&pause=1000&color=FFFFFF&background=FFF9FB00&center=verdadeiro&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=570&height=100&lines=%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+Ol%C3%A1%2C+eu+sou+o+Josu%C3%A9+Santos;%F0%9F%8C%90+Programador+Front-end" alt="Typing SVG" /></a>**
-### GitHub Status
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## Sobre mim ✏️
+   **Tenho 21 anos, estou finalizando meu curso técnico em informática e me considero proativo, determinado e curioso. Comecei a me interessar por desenvolvimento web principalmente quando fiz um projeto em Java, utilizando a IDE NetBeans e JavaFX.**
 
-<div>
-  
-  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsmatosdev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=26&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-<img align="right" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmatosdev&layout=compact&langs_count=16&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&theme=jolly"/>
+## Estou atualmente aprendendo..
+* Sobre as tecnologias Java Script, CSS3, Bootstrap5 e .React
+---
 
-</div>
+## Educação 🎓
+* Técnico em Informática - IFAM (2023-prsente)
+---
 
+## Cursos extracurriculares 📖
+* Bootcamp Front-end - <strong> Dio.</strong> (2024-presente)
+* Banco de Dandos (SQL/Mysql) - <strong> Fundação Bradesco</strong> (2024)
+* Fundamentos dee T.I - <strong> Fundação Bradesco</strong> (2024)
+* Criar Sites usando (HTML, CSS e JavaScript) - <strong> Fundação Bradesco</strong> (2024)
+---
 
-<div  align="center">
-<div style="display: inline_block"><br>
-  <img align="left" height="200" alt="gif" src="code.gif">
-  <h1 align="cente"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=popping&weight=100&size=35&duration=3000&pause=980&color=FFFFFF&background=FFF9FB00&center=true&multiline=true&repeat=false&random=false&height=60&lines=Tecnologias" alt="Typing SVG" /></a> </h1>
- 
-  <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+## Experiências 👔
+* **Analista Técnico** - Agência Amazonense de Desevolvimento Econômico, Social e Ambiental (2024 - presente)
+* **Chefe de Equipe** - Secretaria de Estado de Educação do Amazonas (Mar-2022 - Dez-2022)
+---
 
-##
+## Contato 📪
 
-<div>
-  <a href = "mailto:deevjosue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devjosuematos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![gmail-badge][gmail-img]][gmail]
+[![linkedin-badge][linkedin-img]][linkedin]
+
+[gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail]: mailto:deevjosue@gmail.com
+
+[linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin]: https://www.linkedin.com/in/devjosuematos/
+
+---
+
+## Linguagens e ferramentas utilizadas 💻
+
+[![Html-badge][html-img]][html]
+[![Css-badge][css-img]][css]
+[![Javascript-badge][javascript-img]][javascript]
+[![Node.js-badge][nodejs-img]][nodejs]
+[![MySQL-badge][mysql-img]][mysql]
+[![GIT-badge][git-img]][git]
+[![VsCode-badge][vscode-img]][vscode]
+
+[html-img]: https://img.shields.io/badge/-html-orange?logo=html&logoColor=white&style=for-the-badge
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+[css-img]: https://img.shields.io/badge/-css-blue?logo=css&logoColor=white&style=for-the-badge
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+[python-img]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+[python]: https://www.python.org/
+
+[javascript-img]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[javascript]: https://www.javascript.com/
+
+[mysql-img]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql]: https://www.mysql.com/
+
+[nodejs-img]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white
+[nodejs]: https://nodejs.org/en/
+
+[git-img]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git]: https://git-scm.com/
+
+[vscode-img]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[vscode]: https://code.visualstudio.com/
+
+---
+
+## Estatísticas de perfil 📊
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jsmatosdev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="Github stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmatosdev&theme=tokyonight&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="top langs" />
+
+<br/>
+
+---
 
