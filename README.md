@@ -13,7 +13,7 @@
 ---
 
 ## Educação 🎓
-* Técnico em Informática - IFAM (2023-prsente)
+* Técnico em Informática - IFAM (2023-presente)
 ---
 
 ## Cursos extracurriculares 📖
